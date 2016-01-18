@@ -1,0 +1,21 @@
+Last login: Mon Jan 18 17:18:01 on ttys000
+MacBook-Pro-de-Maria:~ Maria$ pwd
+/Users/Maria
+MacBook-Pro-de-Maria:~ Maria$ ls
+Adobe			Documents		Music
+Applications		Downloads		Pictures
+Biblioteca de calibre	GitHub			Public
+Calibre Library		Library			pslog.txt
+Desktop			Movies
+MacBook-Pro-de-Maria:~ Maria$ cd D
+Desktop/   Documents/ Downloads/ 
+MacBook-Pro-de-Maria:~ Maria$ cd D
+Desktop/   Documents/ Downloads/ 
+MacBook-Pro-de-Maria:~ Maria$ cd Documents/
+Display all 161 possibilities? (y or n)
+MacBook-Pro-de-Maria:~ Maria$ cd Documents/marianavarro.github.io/
+MacBook-Pro-de-Maria:marianavarro.github.io Maria$ pwd
+/Users/Maria/Documents/marianavarro.github.io
+MacBook-Pro-de-Maria:marianavarro.github.io Maria$ git add .
+
+
